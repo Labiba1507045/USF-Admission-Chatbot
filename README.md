@@ -1,4 +1,4 @@
-# USF Admissions Chatbot (Advanced GenAI Lab 1)
+# USF Admissions Chatbot
 
 This project is a lightweight **USF admissions chatbot** built for an Advanced Generative AI Development lab. It:
 
